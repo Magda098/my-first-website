@@ -12,5 +12,7 @@ h2 {
 p { 
     font-family: cambria;
 }
-
+ li {
+    line-height: 30px;
+ }
 
